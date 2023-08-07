@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ompatil7 - Om Patil
-- 👀 I'm studying in 2nd year of Computer Engineering.
+- 👀 I'm studying in 3rd year of Computer Engineering.
 - 📫 How to reach me my instagram - @om.__,patil
 
 <!---
