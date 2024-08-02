@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [gamify](https://gamifyv2.vercel.app/)<br><br>- 🌱 I’m currently learning **typescript, graphql**<br><br>- 💬 Ask me about **developing innovative solutions**<br><br>- 📫 How to reach me **ompatil4749@gmail.com**
+- 🔭 I’m currently working on [gamify](https://gamify-v2.vercel.app/)<br><br>- 🌱 I’m currently learning **typescript, graphql**<br><br>- 💬 Ask me about **developing innovative solutions**<br><br>- 📫 How to reach me **ompatil4749@gmail.com**
 
 
 ## 🌐 Socials:
